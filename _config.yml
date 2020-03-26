@@ -6,7 +6,7 @@ language: 'en-uk'
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper2/
+baseurl: /
 
 # Website info
 title: Ghost
@@ -15,8 +15,8 @@ cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: https://jekyller.github.io/jasper2/
-source_url: https://github.com/jekyller/jasper2/
+production_url: https://haamop.github.io/
+source_url: https://github.com/haamop/
 CNAME: #add cname for website to be created
 
 # Social info
@@ -29,10 +29,10 @@ facebook: ghost # replace by your username
 
 # Disqus
 disqus: False
-disqus_shortname: jekyller # replace with your disqus username
+disqus_shortname: haamop # replace with your disqus username
 
 # Google Analytics
-google_analytics: UA-69281367-1 # replace with your GA tracking identifier
+google_analytics: UA-161806219-1 # replace with your GA tracking identifier
 
 # Permalinks
 permalink: /:title
@@ -69,13 +69,13 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: jekyller
-repo: jasper2
+username: haamop 
+repo: haamop.github.io
 branch: master
-relative_source: ../jasper2/
+relative_source: ../
 destination: ../jasper2-pages/
 production_url:  https://jekyller.github.io/jasper2/
-source_url:  https://github.com/jekyller/jasper2/
+source_url:  https://github.com/haamop/haamop.github.io/
 
 exclude:
   - assets/css
